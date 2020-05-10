@@ -1,25 +1,3 @@
 language: java
 jdk:
-   -oraclejdk8
-
- O volume na unidade C ‚ OS
- O N£mero de S‚rie do Volume ‚ 04BA-4977
-
- Pasta de C:\Udemy\API Restfull\Basico\workspace\MeuPrimeiroProjeto
-
-09/05/2020  22:01    <DIR>          .
-09/05/2020  22:01    <DIR>          ..
-09/05/2020  12:44             2.017 .classpath
-09/05/2020  12:43               333 .gitignore
-09/05/2020  12:43    <DIR>          .mvn
-09/05/2020  12:44               723 .project
-09/05/2020  12:44    <DIR>          .settings
-09/05/2020  12:43             1.110 HELP.md
-09/05/2020  12:43            10.070 mvnw
-09/05/2020  12:43             6.608 mvnw.cmd
-09/05/2020  12:43             1.750 pom.xml
-09/05/2020  12:43    <DIR>          src
-09/05/2020  12:44    <DIR>          target
-09/05/2020  22:01                 0 travis.yml
-               8 arquivo(s)         22.611 bytes
-               6 pasta(s)   827.488.235.520 bytes dispon¡veis
+  -oraclejdk8
